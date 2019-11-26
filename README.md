@@ -20,7 +20,7 @@ Main technologies and techniques that are used to develop this application.
 * Jasper Reports
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ashankaushalya97/MotorbikeShop-Management-Spring/blob/spring/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ashankaushalya97/Point-Of-Sales-Spring/blob/master/LICENSE) file for details.
 
 
 
